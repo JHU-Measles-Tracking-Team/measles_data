@@ -1,7 +1,5 @@
 # U.S. Measles Data Repository
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 The Johns Hopkins University Measles Tracking Team's collection of U.S. measles cases data. For more information about the project, visit the [Bloomberg School of Public Health's Measles Tracker](https://example.com/measles-tracker).
 
 ## About the Project

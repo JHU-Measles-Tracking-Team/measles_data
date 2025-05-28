@@ -1,6 +1,6 @@
 # U.S. Measles Data Repository
 
-The Johns Hopkins University Measles Tracking Team's collection of U.S. measles cases data. For more information about the project, visit the [Bloomberg School of Public Health's Measles Tracker](https://example.com/measles-tracker). (placeholder)
+The Johns Hopkins University Measles Tracking Team's collection of U.S. measles cases data. For more information about the project, visit the [Bloomberg School of Public Health's Measles Tracker](https://publichealth.jhu.edu/ivac/measles-tracker).
 
 ## About the Project
 

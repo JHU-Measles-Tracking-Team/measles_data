@@ -47,7 +47,7 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 |--------|-------------|
 | `week_start` | First day of epidemiological week (YYYY-MM-DD, always Sunday) |
 | `week_end` | Last day of epidemiological week (YYYY-MM-DD, always Saturday) |
-| `Kansas_cases` | Weekly count of confirmed cases in Kansas by rash onset date |
+| `KS_cases` | Weekly count of confirmed cases in Kansas by rash onset date |
 | `NM_cases` | Weekly count of confirmed cases in New Mexico by rash onset date |
 | `TX_cases` | Weekly count of confirmed cases in Texas by rash onset date |
 

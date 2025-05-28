@@ -63,6 +63,7 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 | Column | Description |
 |--------|-------------|
 | `county` | County identifier in "County Name, State Abbreviation" format |
+| `fips` | County identifier |
 | `2025-01-01` to `[current date]` | Daily case counts (integer values) |
 
 **Key Features**:

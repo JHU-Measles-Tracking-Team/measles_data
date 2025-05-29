@@ -19,7 +19,7 @@ The data are compiled from official sources, including:
 - Municipal health authorities  
 - County-level news releases and verified news articles
 
-All data represents **laboratory-confirmed measles cases** reported by public health authorities in 2025. The complete list of sources is documented in [data_sources_by_state.csv](blob/main/data_sources_by_state.csv), organized by state.
+All data represents **laboratory-confirmed measles cases** reported by public health authorities in 2025. The complete list of sources is documented in [data_sources_by_state.csv](data_sources_by_state.csv), organized by state.
 
 ## Data Files
 

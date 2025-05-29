@@ -87,7 +87,7 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 
 ## Update Schedule
 
-Data are updated **Tuesdays and Fridays** at approximately **5:00 PM Eastern Time** to align with state reporting schedules.
+Data are updated **Tuesdays and Fridays** at approximately **5:00 PM Eastern Time**.
 
 > **Note**: Historical data is subject to backward revisions as case investigations are completed and additional information becomes available.
 

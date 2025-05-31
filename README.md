@@ -71,6 +71,7 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 - **County-level precision**: Enables sub-state geographic analysis
 - **Coverage**: All U.S. counties with at least one confirmed case
 
+
 ## Data Dictionary
 
 ### Common Standards
@@ -85,6 +86,11 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 | County Daily Data | Administrative reporting dates | Public health response timeline, administrative burden tracking |
 | State Weekly Data | Epidemiological rash onset dates where available | Epidemiological analysis, outbreak curves, transmission modeling |
 
+### Unusual Cases Methodology:
+
+- The state of Kansas does not provide exact case numbers for counties with less than five confirmed cases. As such, we aggregate such cases to an "unknown county" until further information is available.
+- The state of Tennessee provides confirmed case reporting on public health region rather than counties. We provide Tennessee cases on the same level.
+- The state of Oklahoma does not provide county information on the confirmed cases. As such, we aggregate all cases to the "Oklahoma county" until further information is available.
 ## Update Schedule
 
 Data are updated **Tuesdays and Fridays** at approximately **5:00 PM Eastern Time**.
